@@ -1,0 +1,16 @@
+{
+  "name": "react-native-base",
+  "version": "0.0.1",
+  "description": "React Native CSS library ported from Mapbox Base",
+  "main": "base.js",
+  "scripts": {
+    "test": "eslint base.js"
+  },
+  "author": "Bobby Sudekum",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^3.1.20",
+    "eslint": "^0.24.0",
+    "eslint-plugin-react": "^2.6.4"
+  }
+}
